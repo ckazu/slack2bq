@@ -41,3 +41,6 @@ $ git subtree push --prefix slack_proxy heroku_slack master
 $ git subtree push --prefix fluent_proxy heroku_fluent master
 ```
 
+### Setting of Slack outgoing webhook
+
+Add outgoing webhooks and input `URL(s)` field to `https://<HEROKU REPO slack_proxy>/slack`
