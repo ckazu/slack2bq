@@ -1,0 +1,4 @@
+source 'http://rubygems.org'
+
+gem 'fluentd'
+gem 'fluent-plugin-bigquery'
